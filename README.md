@@ -37,8 +37,8 @@ This template hosts a variety of projects and blog posts, including:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/temaprint/astro-blog-template.git
-cd astro-blog-template
+git clone https://github.com/temaprint/t3ma.git
+cd t3ma
 ```
 
 ### 2️⃣ Install Dependencies
