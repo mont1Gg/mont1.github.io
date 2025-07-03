@@ -1,4 +1,4 @@
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
+// https://mont1.github.io/config
 export default defineConfig({});
